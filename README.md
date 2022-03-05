@@ -40,3 +40,7 @@ Para poder utilizar Git dentro de nuestro computador debemos configurar nuestra 
 - Ir al Visual
 - Ingresar en la terminal el siguiente comando:
 `git clone https://github.com/Marianlar1987/Crear-Repositorio.git`
+
+# Prueba Imagen
+
+[![N|Solid](https://i.ibb.co/0qRqSR2/IMG-20210917-205109.jpg)](https://github.com/Marianlar1987/Introduccion-a-Git-/edit/main/README.md)
