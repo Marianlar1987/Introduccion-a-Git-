@@ -1,6 +1,6 @@
 # Introducción a Git
 
-###Configurar Git en nuestro computador
+### Configurar Git en nuestro computador
 
 
 Para poder utilizar Git dentro de nuestro computador debemos configurar nuestra cuenta con las credenciales de GitHub. Para ello, ejecutaremos dos comandos: 
@@ -14,7 +14,7 @@ Para poder utilizar Git dentro de nuestro computador debemos configurar nuestra 
     ```$ git config --global user.email marian200.ma@gmail.com"```
 
 
-###Crear Repositorio
+### Crear Repositorio
 
 
 - Abrir GitHub 
@@ -26,3 +26,17 @@ Para poder utilizar Git dentro de nuestro computador debemos configurar nuestra 
 - Selecciona "Public"
 - Selecciona "Add README.MD file"
 - Click en boton verde "Create respository"
+
+### Clonar Repositorio
+
+- Abre una ventana de Visual Studio Code
+- Click en Terminal 
+- Seleccion la terminal de bash
+- Ir a GitHub 
+- Click en "Your repositoies"
+- Click en el repositorio 
+- Click en el boton verde "Code"
+- Copiar el link del repositorio
+- Ir al Visual
+- Ingresar en la terminal el siguiente comando:
+`git clone https://github.com/Marianlar1987/Crear-Repositorio.git`
